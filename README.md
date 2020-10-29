@@ -20,6 +20,7 @@ Code works fairly well I think. Could not find any bugs. Was glad that we got an
 ## Instruction on running program:
 
 g++ **.cpp
+
 ./a.out test.txt
 
 
@@ -33,4 +34,5 @@ g++ **.cpp
 6. https://stackoverflow.com/questions/3718998/fixing-segmentation-faults-in-c
 7. https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm
 8. http://www.cplusplus.com/doc/tutorial/exceptions/
+
 I met with Saniya Syed numerous times and she helped through this assignment.
